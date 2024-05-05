@@ -13,15 +13,14 @@ To use this timesheet system, simply download the Excel file from this repositor
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
 
-## License
-<<<<<<< HEAD
-This project is released under the [License Name].
+## License HEAD
+This project is released under the Yrysbaev Maksatbek.
 
 ## Contact
-For questions or support, please email [Your Email].
+For questions or support, please email mzamirbekovic02@gmail.com.
 =======
 This project is released under the Yrysbaev Maksatbek.
 
 ## Contact
 For questions or support, please email mzamirbekovic02@gmail.com.
->>>>>>> refs/remotes/origin/Main
+
