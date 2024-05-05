@@ -3,6 +3,10 @@
 ## About the Project
 This project is a simple Excel-based application for tracking weekly work hours. It is designed to help freelancers and small business employees efficiently manage and calculate their weekly working hours.
 
+## Screenshots
+
+![screenshot](screenshot.png)
+
 ## Getting Started
 To use this timesheet system, simply download the Excel file from this repository, open it with Microsoft Excel or a compatible spreadsheet application.
 
