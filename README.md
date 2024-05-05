@@ -5,7 +5,7 @@ This project is a simple Excel-based application for tracking weekly work hours.
 
 ## Screenshots
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 ## Getting Started
 To use this timesheet system, simply download the Excel file from this repository, open it with Microsoft Excel or a compatible spreadsheet application.
